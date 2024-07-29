@@ -1,0 +1,16 @@
+{
+  "name": "kw-ms-wss-frontend",
+  "version": "1.0.0",
+  "description": "Web socket server for knoWhere frontend clients to recieve live location messages.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishnu Navaneeth Krishnan",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.5.1",
+    "ws": "^8.18.0"
+  }
+}
